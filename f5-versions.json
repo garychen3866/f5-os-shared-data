@@ -1,13 +1,15 @@
 {
   "updated": "2026-10-22",
   "tmos": [
-    { "branch": "17.5.x", "version": "", "iso": "", "hotfix": "", "released": "", "eos": "" },
+    { "branch": "17.5.x", "17.5.1.10": "", "BIGIP-17.5.1.10-0.0.35.iso": "", "hotfix": "", "2026.10.14": "", "eos": "" },
+    { "branch": "17.5.x", "17.5.1.10": "", "iso": "", "Hotfix-BIGIP-17.5.1.10.0.7.35-ENG.iso": "", "2026.10.14": "", "eos": "" },
     { "branch": "17.1.x", "version": "", "iso": "", "hotfix": "", "released": "", "eos": "" },
     { "branch": "16.1.x", "version": "", "iso": "", "hotfix": "", "released": "", "eos": "" },
     { "branch": "15.1.x", "version": "", "iso": "", "hotfix": "", "released": "", "eos": "" }
   ],
   "f5os_a": [
-    { "branch": "1.8.x", "version": "", "iso": "", "released": "", "eos": "" }
+    { "branch": "1.8.x", "1.8.4.HR-2": "", "F5OS-A-1.8.4-28594.R2R4.HR-2.iso": "", "2026.9.1": "", "eos": "" },
+    { "branch": "1.8.x", "1.8.4.HR-2": "", "F5OS-A-1.8.4-28594.R5R10.HR-2.iso": "", "2026.9.1": "", "eos": "" }
   ],
   "f5os_c": [
     { "branch": "1.8.x", "version": "", "iso": "", "released": "", "eos": "" }
