@@ -1,0 +1,15 @@
+{
+  "updated": "2026-10-22",
+  "tmos": [
+    { "branch": "17.5.x", "version": "", "iso": "", "hotfix": "", "released": "", "eos": "" },
+    { "branch": "17.1.x", "version": "", "iso": "", "hotfix": "", "released": "", "eos": "" },
+    { "branch": "16.1.x", "version": "", "iso": "", "hotfix": "", "released": "", "eos": "" },
+    { "branch": "15.1.x", "version": "", "iso": "", "hotfix": "", "released": "", "eos": "" }
+  ],
+  "f5os_a": [
+    { "branch": "1.8.x", "version": "", "iso": "", "released": "", "eos": "" }
+  ],
+  "f5os_c": [
+    { "branch": "1.8.x", "version": "", "iso": "", "released": "", "eos": "" }
+  ]
+}
