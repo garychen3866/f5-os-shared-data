@@ -101,6 +101,7 @@
         { "version": "1.8.4-HR2", "type": "HR Release", "image_r2r4": "F5OS-A-1.8.4-28594.R2R4.HR-2.iso", "image_r5r10": "F5OS-A-1.8.4-28594.R5R10.HR-2.iso", "released": "2026-09-01" },
         { "version": "1.8.4-HR1", "type": "HR Release", "image_r2r4": "F5OS-A-1.8.4-27808.R2R4.HR-1.iso", "image_r5r10": "F5OS-A-1.8.4-27808.R5R10.HR-1.iso", "released": "2026-07-14" },
         { "version": "1.8.4", "type": "Patch", "image_r2r4": "F5OS-A-1.8.4-26491.R2R4.EHF-1.iso", "image_r5r10": "F5OS-A-1.8.4-26491.R5R10.EHF-1.iso", "released": "2026-04-27" },
+        { "version": "1.8.3-EHF", "type": "EHF", "image_r2r4": "F5OS-A-1.8.3-23493.R2R4.EHF-1.iso", "image_r5r10": "F5OS-A-1.8.3-23493.R5R10.EHF-1.iso", "released": "2025-10-18" },
         { "version": "1.8.3", "type": "Patch", "image_r2r4": "F5OS-A-1.8.3-23453.R2R4.LTS.iso", "image_r5r10": "F5OS-A-1.8.3-23453.R5R10.LTS.iso", "released": "2025-10-10" },
         { "version": "1.8.0-EHF", "type": "EHF", "image_r2r4": "F5OS-A-1.8.0-17564.R2R4.EHF-1.iso", "image_r5r10": "F5OS-A-1.8.0-17564.R5R10.EHF-1.iso", "released": "2024-12-03" },
         { "version": "1.8.0", "type": "Minor", "image_r2r4": "F5OS-A-1.8.0-16036.R2R4.iso", "image_r5r10": "F5OS-A-1.8.0-16036.R5R10.iso", "released": "2024-10-16" }
